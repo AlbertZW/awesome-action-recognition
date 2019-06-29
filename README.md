@@ -52,6 +52,7 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [[Inflated models on PyTorch]](https://github.com/hassony2/inflated_convnets_pytorch)
 * [[I3D models transfered from Tensorflow to PyTorch]](https://github.com/hassony2/kinetics_i3d_pytorch)
 * [[A Two Stream Baseline on Kinectics dataset]](https://github.com/gurkirt/2D-kinectics)
+* [[MMAction]](https://github.com/open-mmlab/mmaction)
 
 ### Action Classification
 * [Neural Graph Matching Networks for Fewshot 3D Action Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Neural_Graph_Matching_ECCV_2018_paper.pdf) - M. Guo et al., ECCV2018.
@@ -157,6 +158,9 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [Sports Videos in the Wild](http://cvlab.cse.msu.edu/project-svw.html)
 * [NTU RGB+D](https://github.com/shahroudy/NTURGB-D)
 * [Mixamo Mocap Dataset](http://mocap.cs.cmu.edu/)
+* [UWA3D Multiview Activity II Dataset](http://staffhome.ecm.uwa.edu.au/~00053650/databases.html)
+* [Northwestern-UCLA Dataset](https://users.eecs.northwestern.edu/~jwa368/my_data.html)
+* [SYSU 3D Human-Object Interaction Dataset](http://www.isee-ai.cn/~hujianfang/ProjectJOULE.html)
 
 ### Video Annotation
 * [Efficiently scaling up crowdsourced video annotation](http://cvrr.ucsd.edu/ece285/Spring2014/papers/Vondrick_IJCV2013.pdf) - C. Vondrick et. al, IJCV2013. [[code]](https://github.com/cvondrick/vatic)
